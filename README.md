@@ -1,0 +1,1 @@
+A modular Self-Reflective Retrieval-Augmented Generation (Self-RAG) pipeline that improves reliability, factual grounding, and robustness of Large Language Model (LLM) responses through retrieval gating, hallucination detection, and iterative answer refinement.
